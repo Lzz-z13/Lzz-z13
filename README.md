@@ -1,38 +1,69 @@
-# 👋 Oi, eu sou o Luiz
+<div align="center">
+  <h1>👋 Olá, me chamo Luiz Felipe</h1>
+  <h3>Estudante FullStack na rede SENAI & ETEC | Aluno SESI 3º E.M</h3>
 
-Me chamo **Luiz Felipe Campos Margato** — estudante do 3º ano do Ensino Médio, cursando simultaneamente o **2º ano do Técnico em Desenvolvimento de Sistemas no SENAI** de Franca/SP e o **Técnico em Desenvolvimento de Sistemas na ETEC** (EAD).
-
-Sou entusiasta de tecnologia com experiência prática em **robótica competitiva** e **visão computacional**. Minha jornada conecta o desenvolvimento web com sistemas embarcados — e meu objetivo agora é consolidar essa base, misturando o que aprendo nas duas formações com os desafios reais da robótica.
-
-
----
-
-
-## O que me define além do código
-
-Gosto de entender o ecossistema inteiro de um projeto, não só a parte que me cabe.
-
-- **Time primeiro:** Na FranRobots aprendi na prática que hardware e software precisam se falar — e quando não se falam, alguém precisa fazer essa ponte.
-- **Calma sob pressão:** Competições ensinam a encontrar uma solução rápida no momento e uma solução certa depois. Isso me ajudou muito ao realizar apresentações no SENAI
-- **Comunicação:** Desenvolvida nas apresentações de Sprint do SENAI e no ritmo acelerado de uma equipe de robótica.
+  <p>
+    <a href="https://www.linkedin.com/in/luizzmargato/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/luizz.campoos/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://stackoverflow.com/users/32738617/luiz"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  </p>
+</div>
 
 ---
 
-## Trajetória e conquistas
+### 💫 Sobre Mim
 
-* Atuei na equipe **FranRobots** nas temporadas de **2025** e 2026, com foco na interseção entre programação embarcada e inteligência artificial aplicada.
-
-* **Atividades**: Desenvolvimento de firmware para ESP32 em C++ puro, criação de modelos de Machine Learning com Edge Impulse e implementação de reconhecimento de imagem com Python.
-* 🤖 Participação da equipe na temporada de 2025, onde os integrantes foram para disputar o nacional:
-   * 🥉 3º Lugar na etapa Nacional da RoboCup (Vitória-ES).
+- 🎓 **Educação:** Cursando o 3º ano do Ensino Médio no SESI e Técnico em Desenvolvimento de Sistemas no SENAI Franca/SP.
+- 🚀 **Atualidade:** Jovem Aprendiz **patrocinado pela SEARA**, oportunidade conquistada através do meu desempenho e notas no SENAI.
+- 🌱 **Estudando no momento:** `Docker` & `C# com .NET MAUI`
+- 📫 **Contato:** [luizfelipe.camposmargato@gmail.com](mailto:luizfelipe.camposmargato@gmail.com)
 
 ---
 
-## Ferramentas do ofício
+### 🤖 Robótica & Conquistas
 
-| Área | Stack |
-|---|---|
-| Web | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| Mobile | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| Robótica & Visão | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-000000?style=flat&logoColor=white) |
-| Ambiente | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+> 🏆 **Equipe FranRobots (2025 - 2026)**
+> Fui membro da equipe de robótica FranRobots durante a temporada de 2025 e início de 2026. Como programador do time, ajudei na preparação do robô que garantiu o **🥉 3º Lugar no Campeonato Nacional em Vitória**. 
+> *Nota: A temporada foi encerrada no início de 2026 devido à saída dos integrantes para a conclusão do 3º ano do Ensino Médio.*
+
+---
+
+### 💻 Ferramentas & Linguagens
+
+#### 🌐 Frontend & Mobile
+<div align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
+
+#### ⚙️ Backend, Banco de Dados & Infra
+<div align="left">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+#### 🛠️ Hardware, IoT & Outros
+<div align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge_Impulse-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 🏆 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lzz-z13&theme=dark" alt="GitHub Streak" /></a>
+</div>
