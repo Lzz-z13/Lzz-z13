@@ -20,13 +20,11 @@ Gosto de entender o ecossistema inteiro de um projeto, não só a parte que me c
 
 ## Trajetória e conquistas
 
-- Atuei na equipe **FranRobots** nas temporadas de **2025** e 2026, com foco na interseção entre programação embarcada e inteligência artificial aplicada.
+* Atuei na equipe **FranRobots** nas temporadas de **2025** e 2026, com foco na interseção entre programação embarcada e inteligência artificial aplicada.
 
 * **Atividades**: Desenvolvimento de firmware para ESP32 em C++ puro, criação de modelos de Machine Learning com Edge Impulse e implementação de reconhecimento de imagem com Python.
-🤖 Participação da equipe na temporada de 2025, onde os integrantes foram para disputar o nacional.
-
+🤖 Participação da equipe na temporada de 2025, onde os integrantes foram para disputar o nacional:
    * 🥉 3º Lugar na etapa Nacional da RoboCup (Vitória-ES).
-
 
 ---
 
