@@ -18,7 +18,7 @@
 
 - 🎓 **Educação:** Cursando o 3º ano do Ensino Médio no SESI e Técnico em Desenvolvimento de Sistemas no SENAI Franca/SP.
 - 🚀 **Atualidade:** Jovem Aprendiz **patrocinado pela SEARA**, oportunidade conquistada através do meu desempenho e notas no SENAI.
-- 🌱 **Estudando no momento:** `Docker`, `C# com .NET MAUI` & `Vercel`.
+- 🌱 **Estudando no momento:** `Docker`, `C# com .NET MAUI` & `Deploy`.
 - 📫 **Contato:** [luizfelipe.camposmargato@gmail.com](mailto:luizfelipe.camposmargato@gmail.com)
 
 ---
