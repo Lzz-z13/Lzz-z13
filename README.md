@@ -17,9 +17,9 @@
 ### 💫 Sobre Mim
 
 - 🎓 **Educação:** Cursando o 3º ano do Ensino Médio no SESI e Técnico em Desenvolvimento de Sistemas no SENAI Franca/SP.
-- 🚀 **Atualidade:** Jovem Aprendiz **patrocinado pela SEARA/JBS**, oportunidade conquistada através do meu desempenho e notas no SENAI.
-- 🌱 **Estudando no momento:** `Docker`, `C# com .NET MAUI` & `Deploy`.
-- 📫 **Contato:** [luizfelipe.camposmargato@gmail.com](mailto:luizfelipe.camposmargato@gmail.com)
+-  **Atualidade:** Jovem Aprendiz **patrocinado pela SEARA/JBS**, oportunidade conquistada através do meu desempenho e notas no SENAI.
+-  **Estudando no momento:** `Docker`, `C# com .NET MAUI` & `Deploy`.
+-  **Contato:** [luizfelipe.camposmargato@gmail.com](mailto:luizfelipe.camposmargato@gmail.com)
 
 ---
 
@@ -66,9 +66,7 @@
 
 ---
 
-### 🏆 GitHub Stats
-
+###  GitHub Stats
 <div align="center">
-  <br><br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lzz-z13&theme=green-nur" alt="GitHub Streak" /></a>
 </div>
