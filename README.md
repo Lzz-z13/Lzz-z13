@@ -1,4 +1,4 @@
-# Luiz Felipe Campos Margato oieoeieieoeoaiooiwadad
+# Luiz Felipe Campos Margato
 
 **Full-Stack Developer & Robotics Enthusiast • 17 y/o**
 
