@@ -1,62 +1,43 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5CE65C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+me+chamo+Luiz+Felipe+%F0%9F%91%8B;Estudante+FullStack;Desenvolvedor+.NET+%26+React;Apaixonado+por+Rob%C3%B3tica+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
+# Luiz Felipe Campos Margato
 
-  <h3>Estudante FullStack (SENAI & ETEC) | Aluno SESI 3º E.M</h3>
+**Full-Stack Developer & Robotics Enthusiast • 17 y/o**
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/luizzmargato/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/luizz.campoos/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://stackoverflow.com/users/32738617/luiz"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  </p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizzmargato/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32738617/luiz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfelipe.camposmargato@gmail.com)
 
 ---
 
-### Sobre Mim
+### 🙃 About
 
-- 🎓 **Educação:** Cursando o 3º ano do Ensino Médio no SESI e Técnico em Desenvolvimento de Sistemas no SENAI Franca/SP.
--  **Atualidade:** Jovem Aprendiz **patrocinado pela SEARA/JBS**, oportunidade conquistada através do meu desempenho e notas no SENAI.
--  **Contato:** [luizfelipe.camposmargato@gmail.com](mailto:luizfelipe.camposmargato@gmail.com)
+Driven by a deep curiosity to understand how things work under the hood. I am currently balancing my senior year of High School with two simultaneous technical degrees in Software Development (at SENAI and ETEC).
 
----
+My main focus is building applications within the .NET and React ecosystems. At the same time, I am deeply interested in IoT and Robotics, where software meets the physical world.
 
-### Robótica & Conquistas
+I enjoy learning by building, experimenting with new technologies, and turning ideas into something that actually works.
 
-> **Equipe FranRobots (2025 - 2026)** <br>
-> Fui membro da equipe de robótica FranRobots durante a temporada de 2025 e início de 2026. Como programador do time, ajudei na preparação do robô que garantiu o **🥉 3º Lugar no Campeonato Nacional em Vitória/ES**.
-> 
-> *Nota: A temporada foi encerrada no início de 2026 devido à saída dos integrantes para a conclusão do 3º ano do Ensino Médio (inclusive eu).*
+- **Awarded Sponsorship:** Selected as an apprentice sponsored by Seara/JBS based on academic performance, among approximately 150 students at SENAI.
+- **Robotics & Resilience:** Robotics: Former programmer for the FranRobots team, responsible for software development and the robot's technical preparation for competition. The system I helped develop went on to achieve 3rd place at the National Championship, strengthening my experience with real-time logic, hardware integration, and troubleshooting under development constraints.
 
 ---
 
-### Ferramentas & Linguagens
+### 🖥️ Stacks/Techs
 
-<div align="center">
-  <p><b>Frontend & Mobile</b></p>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_MAUI-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+**Software & Web**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-  <br><br>
+**Hardware & IoT**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-111111?style=for-the-badge&logo=edge-impulse&logoColor=white)
 
-  <p><b>Backend e Banco de Dados</b></p>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+---
 
-  <br><br>
+###  Quick Facts
 
-  <p><b>Hardware, IoT & Outros</b></p>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge_Impulse-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+- **Looking to collaborate on:** Open-source projects, especially in areas I am unfamiliar with and can learn from.
+- **Languages:** Portuguese (Native), English (C1).
+
+---
+
+###  Projects
+
+You can check out my main repositories and recent work in my **[Featured Projects](https://github.com/Lzz-z13?tab=repositories)**.
