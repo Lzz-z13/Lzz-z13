@@ -14,28 +14,27 @@
 
 ---
 
-### 💫 Sobre Mim
+### Sobre Mim
 
 - 🎓 **Educação:** Cursando o 3º ano do Ensino Médio no SESI e Técnico em Desenvolvimento de Sistemas no SENAI Franca/SP.
 -  **Atualidade:** Jovem Aprendiz **patrocinado pela SEARA/JBS**, oportunidade conquistada através do meu desempenho e notas no SENAI.
--  **Estudando no momento:** `Docker`, `C# com .NET MAUI` & `Deploy`.
 -  **Contato:** [luizfelipe.camposmargato@gmail.com](mailto:luizfelipe.camposmargato@gmail.com)
 
 ---
 
-### 🤖 Robótica & Conquistas
+### Robótica & Conquistas
 
-> 🏆 **Equipe FranRobots (2025 - 2026)** <br>
+> **Equipe FranRobots (2025 - 2026)** <br>
 > Fui membro da equipe de robótica FranRobots durante a temporada de 2025 e início de 2026. Como programador do time, ajudei na preparação do robô que garantiu o **🥉 3º Lugar no Campeonato Nacional em Vitória/ES**.
 > 
 > *Nota: A temporada foi encerrada no início de 2026 devido à saída dos integrantes para a conclusão do 3º ano do Ensino Médio (inclusive eu).*
 
 ---
 
-### 💻 Ferramentas & Linguagens
+### Ferramentas & Linguagens
 
 <div align="center">
-  <p><b>🌐 Frontend & Mobile</b></p>
+  <p><b>Frontend & Mobile</b></p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -46,27 +45,18 @@
 
   <br><br>
 
-  <p><b>⚙️ Backend, Banco de Dados & Infra</b></p>
+  <p><b>Backend e Banco de Dados</b></p>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
   <br><br>
 
-  <p><b>🛠️ Hardware, IoT & Outros</b></p>
+  <p><b>Hardware, IoT & Outros</b></p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Edge_Impulse-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-###  GitHub Stats
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lzz-z13&theme=green-nur" alt="GitHub Streak" /></a>
 </div>
